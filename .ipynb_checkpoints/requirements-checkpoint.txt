@@ -4,3 +4,4 @@ torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
 transformers
 opencv-python
 matplotlib
+scikit-learn
