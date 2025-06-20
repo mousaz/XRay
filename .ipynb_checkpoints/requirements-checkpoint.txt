@@ -5,3 +5,5 @@ transformers
 opencv-python
 matplotlib
 scikit-learn
+timm
+albumentations
