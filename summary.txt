@@ -1,0 +1,23 @@
+multi-modal 20 epochs
+BLEU-1: 0.2151
+BLEU-2: 0.1206
+BLEU-3: 0.0793
+BLEU-4: 0.0531
+ROUGE-L: 0.2046
+CIDEr: 0.0764
+-------------------------------------
+multi-modal with keywords 20 epochs
+BLEU-1: 0.2212
+BLEU-2: 0.1236
+BLEU-3: 0.0826
+BLEU-4: 0.0560
+ROUGE-L: 0.2199
+CIDEr: 0.0876
+-------------------------------------
+multi-modal with keywords + single image/report 20 epochs
+BLEU-1: 0.2187
+BLEU-2: 0.1111
+BLEU-3: 0.0676
+BLEU-4: 0.0422
+ROUGE-L: 0.2198
+CIDEr: 0.0755
